@@ -1,0 +1,22 @@
+{
+  "name": "refrain-ejs",
+  "version": "0.0.0",
+  "description": "ejs with refrain.",
+  "keywords": [
+    "refrain",
+    "refrainplugin",
+    "ejs"
+  ],
+  "homepage": "https://github.com/shootaroo/refrain-ejs",
+  "bugs": "https://github.com/shootaroo/refrain-ejs/issues",
+  "license": "MIT",
+  "author": "shootaroo <shotaro.tsubouchi@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shootaroo/refrain-ejs.git"
+  },
+  "dependencies": {
+    "ejs": "^1.0.0",
+    "fast.js": "^0.0.5"
+  }
+}
