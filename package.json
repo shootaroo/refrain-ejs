@@ -17,6 +17,6 @@
   },
   "dependencies": {
     "ejs": "^1.0.0",
-    "fast.js": "^0.0.5"
+    "lodash": "^2.4.1"
   }
 }
